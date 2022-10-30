@@ -9,11 +9,11 @@ body {
 	padding: 20px;
 	max-width: 65ch;
 	text-align: left;
-	background-color: #fff;
+	background-color: rgba(0, 116, 37, 0.305);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #444;
+	color: #1c5108;
 }
 h1,
 h2,
@@ -23,10 +23,10 @@ h5,
 h6,
 strong,
 b {
-	color: #222;
+	color: #1c5108;
 }
 a {
-	color: #3273dc;
+	color: #074f13;
 }
 nav a {
 	margin-right: 10px;
@@ -50,7 +50,7 @@ img {
 }
 code {
 	padding: 2px 5px;
-	background-color: #f2f2f2;
+	background-color: #074f13;
 }
 pre {
 	padding: 1rem;
