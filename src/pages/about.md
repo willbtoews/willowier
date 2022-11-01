@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/BlogPost.astro"
 title: "About Me"
-description: "Lorem ipsum dolor sit amet"
+description: "About Me"
 updatedDate: "October 30, 2022"
 heroImage: ""
 ---
